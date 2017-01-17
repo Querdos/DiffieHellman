@@ -80,5 +80,5 @@ if __name__ == "__main__":
 	if alice.secret == bob.secret:
 		print("Alice and Bob share the same secret")
 	else:
-		print("Alice and Bob doesn't share the same secret")
+		print("Alice and Bob don't share the same secret")
 
